@@ -1,0 +1,1 @@
+skills=software agent, data management, steganography, system identification, education, remote sensing, 3d modelling, software engineering, wireless & mobile communications, software quality assurance, multi agent systems, computational biology, natural language processing, intelligent systems, spatial visualization ability
